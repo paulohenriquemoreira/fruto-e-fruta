@@ -1,2 +1,2 @@
-# fruto-e-fruta
-Repositório para projeto Fruta e Fruto
+# arquitetura-css
+curso de arquitetura da Alura. 
